@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/OswyChow/frontend-mentor-blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://frontend-mentor-blog-preview-card-blue.vercel.app/)
 
 ### Built with
 
